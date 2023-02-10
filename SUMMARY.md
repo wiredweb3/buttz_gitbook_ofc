@@ -9,12 +9,12 @@
 * [🗺 Roadmap](overview/roadmap.md)
 * [🔗 Official Links](overview/official-links.md)
 
-## 🪙 $Buttz Token
+## 🪙 Buttz Token
 
-* [📙 General Info](usdbuttz-token/general-info.md)
-* [💰 Tokenomics and finances](usdbuttz-token/tokenomics-and-finances.md)
-* [📈 How to buy $BUTTZ](usdbuttz-token/how-to-buy-usdbuttz.md)
-* [🔥 Burns](usdbuttz-token/burns.md)
+* [📙 General Info](buttz-token/general-info.md)
+* [💰 Tokenomics and finances](buttz-token/tokenomics-and-finances.md)
+* [📈 How to buy BUTTZ](buttz-token/how-to-buy-buttz.md)
+* [🔥 Burns](buttz-token/burns.md)
 
 ## Utilities and revenue stream
 
