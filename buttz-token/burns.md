@@ -24,16 +24,7 @@ Every week we will plan to recursively burn the 7,5% of the amount hold from the
 Following we tracked a projection of first 8 weeks of recursive burning @ 7,5% burn ratio.\
 
 
-| Starting balance | Burn ratio | After burn | $BUTTZ burned | Supply burned % |
-| :--------------: | :--------: | ---------- | :-----------: | :-------------: |
-|        10T       |    7,50%   | 9,250T     |      750B     |      0,90%      |
-|      9,250T      |    7,50%   | 8,556T     |    693,75B    |      0,84%      |
-|      8,556T      |    7,50%   | 7,914T     |    641,71B    |      0,77%      |
-|      7,914T      |    7,50%   | 7,320T     |    593,58B    |      0,72%      |
-|      7,320T      |    7,50%   | 6,771T     |    549,07B    |      0,67%      |
-|      6,771T      |    7,50%   | 6,263T     |    507,89B    |      0,62%      |
-|      6,263T      |    7,50%   | 5,794T     |    469,79B    |      0,57%      |
-|       5,794      |    7,50%   | 5,359T     |    434,56B    |      0,53%      |
+<table><thead><tr><th data-type="checkbox">Done</th><th align="center">Starting balance</th><th align="center">Burn ratio</th><th>After burn</th><th align="center">$BUTTZ burned</th><th align="center">Supply burned %</th></tr></thead><tbody><tr><td>true</td><td align="center">10T</td><td align="center">7,50%</td><td>9,250T</td><td align="center">750B</td><td align="center">0,90%</td></tr><tr><td>true</td><td align="center">9,250T</td><td align="center">7,50%</td><td>8,556T</td><td align="center">693,75B</td><td align="center">0,84%</td></tr><tr><td>false</td><td align="center">8,556T</td><td align="center">7,50%</td><td>7,914T</td><td align="center">641,71B</td><td align="center">0,77%</td></tr><tr><td>false</td><td align="center">7,914T</td><td align="center">7,50%</td><td>7,320T</td><td align="center">593,58B</td><td align="center">0,72%</td></tr><tr><td>false</td><td align="center">7,320T</td><td align="center">7,50%</td><td>6,771T</td><td align="center">549,07B</td><td align="center">0,67%</td></tr><tr><td>false</td><td align="center">6,771T</td><td align="center">7,50%</td><td>6,263T</td><td align="center">507,89B</td><td align="center">0,62%</td></tr><tr><td>false</td><td align="center">6,263T</td><td align="center">7,50%</td><td>5,794T</td><td align="center">469,79B</td><td align="center">0,57%</td></tr><tr><td>false</td><td align="center">5,794</td><td align="center">7,50%</td><td>5,359T</td><td align="center">434,56B</td><td align="center">0,53%</td></tr></tbody></table>
 
 {% hint style="info" %}
 The team reserve rights to perform additional $BUTTZ burn from residual balance from other address, or incentivize users to burn with specific marketing campaign.  &#x20;
