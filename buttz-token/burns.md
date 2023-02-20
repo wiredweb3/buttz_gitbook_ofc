@@ -19,7 +19,7 @@ Here's the list of burns, that will be updated every time a burn will happen.&#x
 | [https://solscan.io/tx/2jFS1V836urD4bAZjsYDWbtAPQhtsrQTLsbr1SYxvamyQ4PPD8jh8BFJzSaJLkL7A8iWig9T9joC9ddn9HG4nTyW](https://solscan.io/tx/2jFS1V836urD4bAZjsYDWbtAPQhtsrQTLsbr1SYxvamyQ4PPD8jh8BFJzSaJLkL7A8iWig9T9joC9ddn9HG4nTyW) | 693,750,000,000    |
 | [https://solscan.io/tx/2Ee1eYU47KrRCdUBZH9GUNz6A6XjRdKUR16Mp4PXHBU4rMDsgKxaUEDE72NK1oEdnxizQoFeumQxGz8fa1x5Z61p](https://solscan.io/tx/2Ee1eYU47KrRCdUBZH9GUNz6A6XjRdKUR16Mp4PXHBU4rMDsgKxaUEDE72NK1oEdnxizQoFeumQxGz8fa1x5Z61p) | 641,710,000,000    |
 
-**A specific address holds funds allocated for burn:** [https://solscan.io/account/BRNepaqodoSxPtCUMPTJDQSyF5RNZ3oPUza4oBn8U9p5](https://solscan.io/account/BRNepaqodoSxPtCUMPTJDQSyF5RNZ3oPUza4oBn8U9p5)\
+**Funds are held in a dedicated burn address:** [https://solscan.io/account/BRNepaqodoSxPtCUMPTJDQSyF5RNZ3oPUza4oBn8U9p5](https://solscan.io/account/BRNepaqodoSxPtCUMPTJDQSyF5RNZ3oPUza4oBn8U9p5)\
 \
 Every week we will plan to recursively burn the 7.5% of the amount hold from the dedicated burn address stated above.\
 Following we tracked a projection of first 8 weeks of recursive burning @ 7.5% burn ratio.\
