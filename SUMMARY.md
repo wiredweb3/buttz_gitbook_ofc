@@ -14,6 +14,7 @@
 * [📙 General Info](buttz-token/general-info.md)
 * [💰 Tokenomics and finances](buttz-token/tokenomics-and-finances.md)
 * [📈 How to buy BUTTZ](buttz-token/how-to-buy-buttz.md)
+* [♻ How to farm BUTTZ](buttz-token/how-to-farm-buttz.md)
 * [🔥 Burns](buttz-token/burns.md)
 
 ## Utilities and revenue stream
