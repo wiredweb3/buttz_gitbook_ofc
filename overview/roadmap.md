@@ -15,15 +15,15 @@ description: Development plan for Sol Buttz NFT and $BUTTZ token  (not final)
 * [x] Feb 2023 | Launch of "BUTTZPAY" raid to earn program
 * [x] Feb 2023 | Website launch Ver1.0 | [https://buttz.vercel.app](https://buttz.vercel.app/)
 * [x] Feb 2023 | Deploy of Official Gitbook Ver1.0
-* [ ] Feb 2023 | SOL BUTTZ NFT: Artworks and Metadata Completion
+* [x] Feb 2023 | SOL BUTTZ NFT: Artworks and Metadata Completion
 * [ ] Ongoing | Discord staff (mods, collab managers) recruiting
 * [ ] Ongoing | SOL BUTTZ NFT and $BUTTZ Token Marketing and promotion actions &#x20;
 * [ ] Ongoing | Alpha, whitelist hunters, marketing affiliates onboarding
 * [ ] Ongoing | $BUTTZ Token integration on Heywallet
 * [ ] Ongoing | $BUTTZ Token listing on Coingecko
 * [ ] Ongoing | $BUTTZ Token listing on Coinmarketcap
-* [ ] Feb 2023 | SOL BUTTZ NFT: Advertising on calendars website prior to mint&#x20;
-* [ ] Feb 2023 | SOL BUTTZ NFT: Mint for OG, whitelist and public sale
+* [ ] Ongoing | SOL BUTTZ NFT: Advertising on calendars website prior to mint&#x20;
+* [ ] Feb 2023 | SOL BUTTZ NFT: Mint for OG, Buttzlist and public sale
 * [ ] Feb 2023 | SOL BUTTZ NFT: Listing on MagicEden, Solsea, and other secondary marketplaces
 * [ ] Feb 2023 |  SOL BUTTZ NFT: Discord Holders Verification System
 * [ ] Mar 2023 | SOL BUTTZ NFT: Staking activation on external platforms

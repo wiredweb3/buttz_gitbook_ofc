@@ -14,10 +14,3 @@
 ## How to get buttzlisted
 
 Visit [https://crew3.xyz/c/solbuttz/questboard](https://crew3.xyz/c/solbuttz/questboard) and complete all quests, then join [Discord](https://discord.me/buttz) and contact team via 📩-open-ticket sending proof of all tasks completed.
-
-{% hint style="info" %}
-****\
-**In order to avoid concentration of NFT's in the hands of few, buttzlist and OG spots are not cumulative!**\
-****If you already have rights to OG or BL, achieving additional targets will not result in additional spots.
-{% endhint %}
-
