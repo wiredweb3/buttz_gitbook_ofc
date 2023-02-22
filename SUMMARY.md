@@ -5,7 +5,7 @@
 ## Overview
 
 * [🤝 Sol Buttz NFT collection](overview/sol-buttz-nft-collection.md)
-* [📘 Mint Info & whitelist](overview/mint-info-and-whitelist.md)
+* [📘 Mint info & buttzlist](overview/mint-info-and-buttzlist.md)
 * [🗺 Roadmap](overview/roadmap.md)
 * [🔗 Official Links](overview/official-links.md)
 
