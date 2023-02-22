@@ -22,19 +22,19 @@ Once tasks are completed, the team reviews all entries and process all payouts. 
 ## **How to join?**
 
 ****\
-**"BUTTZPAY**" is available only to Discord users with **@ButtzRaider** role. This special role provide access to private tasks channels. To receive the role and access tasks section, **@ButtzRaider** need to hold in their wallet a minimum balance of **$BUTTZ token.**\
-The minimum threshold to get and maintain the role is currently 51000000000 $BUTTZ, and increase by 2% every week.\
-Once users hold the minimum requested $BUTTZ token amount, is possible to proceed to **Collabland** verification, that automatically assign the **@ButtzRaider** role allowing to access private channels, participate to **BUTTZPAY** raids and receive payouts.
+**"BUTTZPAY**" is accessible only for Discord users with **@ButtzRaider** role. This special role provide access to private tasks channels where the team release contents to raid. To receive the role and access tasks section, **@ButtzRaider** need to hold in their wallet a minimum balance of **$BUTTZ token.**\
+The minimum threshold to get and maintain the role started from 50.000.000.000 $BUTTZ, and increase by 3% every week to create demand for the token.\
+Once users hold the minimum requested $BUTTZ token amount, is possible to proceed to **Collab.land** verification, that automatically assign the **@ButtzRaider** role allowing to access private channels, participate to **BUTTZPAY** raids and receive payouts.
 
 {% hint style="warning" %}
-Twitter account with lesst than 50 followers or with less than 2 months will not be considered eligible to jpoin the program, also if the user wear the requested role.
+Twitter account with lesst than 50 followers or with less than 2 months are not eligible to receive payouts, also if the specific account hold the **@ButtzRaider** role.
 {% endhint %}
 
 ## **How to leave BUTTZPAY?**
 
-Users are free to leave and rejoin anytime they want. From the moment that the threshold of $BUTTZ token goes below the requested threshold , the role will be automatically revoked  and access to private channels will be lost.\
-In order to regain access, simply obtain the amount requested at the time of the request and proceed on completing Collabland verification again.
+Users are free to leave and rejoin anytime they want. **@ButtzRaider** role will be automatically revoked and access to private channels will be lost once the threshold of $BUTTZ token goes below the requested amount. \
+In order to regain access, simply obtain the amount requested at that time and proceed on completing Collab.land verification again.
 
 {% hint style="warning" %}
-The team reserve rights to change conditions at their own solely discretion.
+The team reserve rights to change conditions and requirements at their own solely discretion.
 {% endhint %}

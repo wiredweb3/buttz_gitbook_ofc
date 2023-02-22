@@ -33,10 +33,9 @@ description: Development plan for Sol Buttz NFT and $BUTTZ token  (not final)
 
 ## **Q2/2023**
 
-* [ ] Apr 2023 | Acquisition of blue-chips NFT and launch of weekly raffles
 * [ ] Apr 2023 | SOL BUTTZ DAO enforcing
 * [ ] May 2023 | Development of SOL BUTTZ Official NFT Marketplace and physical merchandising
-* [ ] Jun 2023 | SOL BUTTZ NFT and $BUTTZ: Development of a proprietary staking platform for  raffle and gaming
+* [ ] Jun 2023 | SOL BUTTZ NFT and $BUTTZ: Development of a proprietary NFT staking and lending platform&#x20;
 
 ## **Q3/2023**
 
@@ -44,6 +43,6 @@ description: Development plan for Sol Buttz NFT and $BUTTZ token  (not final)
 
 ## **Q4/2023**
 
-* [ ] Oct 2023 |  SOL BUTTZ NFT and $BUTTZ: Launch of a proprietary staking platform for  raffle and gaming
+* [ ] Oct 2023 |  SOL BUTTZ NFT and $BUTTZ: Launch of a proprietary NFT staking and lending platform
 
 Not limited to the end of the following schedule, the roadmap will be revised according to development progresses, available budget and gradually as the tokenomics expand.

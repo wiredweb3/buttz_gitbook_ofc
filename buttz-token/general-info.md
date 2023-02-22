@@ -24,12 +24,10 @@ We suggest to pick one of those:  [Phantom](https://phantom.app/), [Solflare](ht
 Built to rule and empower the whole Sol Buttz ecosystem, and successfully integrated in other platform, the token will be mainly used for:
 
 * Airdrops and contests for distribution purpose
-* Rewards for NFT staking
-* DAO Membership: Access to dedicated  and private DAO community channel
-* Official currency of the DAO and Sol Buttz ecosystem.
-* Rewards for yield farming on Raydium DEX pool.
+* Rewards from SOL BUTTZ NFT staking
+* DAO Membership: Access to dedicated  and private DAO community channels
+* Rewards from yield farming on Raydium DEX pool
 * Mint of future NFT collections.
-* Buying ticket for acquisition of blue-chips NFT via raffles/auctions
 * Buying official merchandising.
 
 Currently, $BUTTZ is adopted as currency to join "BUTTZPAY", the raid to earn program specifically designed for Sol Buttz Discord channel.\
