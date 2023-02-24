@@ -7,11 +7,13 @@
 $BUTTZ pool on Raydium use the CLMM mechanism through which is possible to provide and concentrate liquidity in a specific range for increased captial efficiency. \[[Learn more](https://docs.raydium.io/raydium/concentrated-liquidity/what-is-concentrated-liquidity)]
 
 1 - Visit [https://raydium.io/clmm/pools](https://raydium.io/clmm/pools) and look for BUTTZ from the search field in top right.\
-\
 
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
+Alternatively go on [https://raydium.io/clmm/create-position?ammId=6D9vquHfuzLR1BZtFQ7WFGCyepZCzrGYypbJ8mTpzUNo](https://raydium.io/clmm/create-position?ammId=6D9vquHfuzLR1BZtFQ7WFGCyepZCzrGYypbJ8mTpzUNo) and jump to step 3\
+\
+\
 2 - To open a position click on the dedicated pool and "Create Position"&#x20;
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
