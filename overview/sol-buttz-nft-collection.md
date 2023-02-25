@@ -9,7 +9,7 @@ coverY: 10
 Sol Buttz is a project based on an NFT collection and powered by a proprietary SPL token that rule the ecosystem.\
 The collection is composed by 888 unique pixel art artwork and is designed and created by the visual and pixel artist[ **Daneli.Sol**](https://twitter.com/danelisol).
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/preview.png" alt=""><figcaption></figcaption></figure>
 
 Each NFT is a one-of-a-kind digital asset with proper traits and rarity that can be owned and traded on the blockchain and has their own story and personality.\
 Thans to his degen concept, the collection aim to become one of the most viral meme on Solana NFT space.\
