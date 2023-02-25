@@ -19,11 +19,10 @@ The amount raised durintg token sale where used to inject liquidity paired with 
 20% for marketing and future airdrops (protocol integrations, additional liquidity provisioning, giveaways).\
 20% as reserve for future DAO activity.\
 5% is allocated to the team: 6 month cliff with 2 year vesting schedule.\
-\
 
 
 {% hint style="info" %}
-The team could need to reallocate budgets in case of special events or unexpected situations.
+In case of special events or unexpected situations, the team reserve rights to do budget reallocation without further notice.
 {% endhint %}
 
 ## NFT Royalties distribution
