@@ -12,5 +12,16 @@ The collection is composed by 888 unique pixel art artwork and is designed and c
 <figure><img src="../.gitbook/assets/preview.png" alt=""><figcaption></figcaption></figure>
 
 Each NFT is a one-of-a-kind digital asset with proper traits and rarity that can be owned and traded on the blockchain and has their own story and personality.\
+\
 Thanks to his degen concept, the collection aim to become one of the most viral meme on Solana NFT space.\
 After mint, **SOL BUTTZ NFT** as digital assets, togheter with $BUTTZ token as digital currency will offer multiple [utilities ](broken-reference)and passive income opportunities (staking and lending to name few) to an always growing community of holders.
+
+## Traits and attributes
+
+The collection is composed by five different traits and each trait contain 95 different layers, resulting in almost 2 millions different combinations!
+
+* **Background:** 25 layers
+* **Skin:** 11 layers
+* **Hair:** 26 layers
+* **Clothes:** 22 layers
+* **Socks:** 11 layers
