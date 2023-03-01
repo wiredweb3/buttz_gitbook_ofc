@@ -7,7 +7,7 @@ coverY: 10
 # 🤝 Sol Buttz NFT collection
 
 Sol Buttz is a project based on an NFT collection and powered by a proprietary SPL token that rule the ecosystem.\
-The collection is composed by 888 unique pixel art artwork and is designed and created by the visual and pixel artist[ **Daneli.Sol**](https://twitter.com/danelisol).
+The collection is composed by 5000 unique pixel art artwork and is designed and created by the visual and pixel artist[ **Daneli.Sol**](https://twitter.com/danelisol).
 
 <figure><img src="../.gitbook/assets/preview.png" alt=""><figcaption></figcaption></figure>
 
