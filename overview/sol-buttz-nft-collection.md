@@ -18,7 +18,9 @@ After mint, **SOL BUTTZ NFT** as digital assets, togheter with $BUTTZ token as d
 
 ## Traits and attributes
 
-The collection is composed by five different traits and each trait contain 94 different layers, resulting in almost 2 millions different combinations!
+The collection is composed by five different traits and each trait contain 94 different layers, resulting in more than 1,5 millions different combinations!
+
+<figure><img src="../.gitbook/assets/gif2.gif" alt=""><figcaption></figcaption></figure>
 
 * **Background:** 25 layers
 * **Skin:** 11 layers
