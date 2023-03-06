@@ -20,6 +20,7 @@ Here's the list of burns, that will be updated every time a burn will happen.&#x
 | [https://solscan.io/tx/2Ee1eYU47KrRCdUBZH9GUNz6A6XjRdKUR16Mp4PXHBU4rMDsgKxaUEDE72NK1oEdnxizQoFeumQxGz8fa1x5Z61p](https://solscan.io/tx/2Ee1eYU47KrRCdUBZH9GUNz6A6XjRdKUR16Mp4PXHBU4rMDsgKxaUEDE72NK1oEdnxizQoFeumQxGz8fa1x5Z61p) | 641,710,000,000    |
 | [https://solscan.io/tx/YdF1vAPEWjktmppBwHDz7aEA3a2sbGF15xzrdSZnuw9qcAok4FTMgQNeRYywFpWbJbKtRnozycUBkcKBRjSYBNx](https://solscan.io/tx/YdF1vAPEWjktmppBwHDz7aEA3a2sbGF15xzrdSZnuw9qcAok4FTMgQNeRYywFpWbJbKtRnozycUBkcKBRjSYBNx)   | 593,580,000,0000   |
 | [https://solscan.io/tx/3uLZaBEe1S5amWTVYGZHywERZ11HYkjdjG2WZgbUZY1V4AHEoLn1ddukmDLqkMTi71Gpy2QfKdhPbkU1bN3xbCKh](https://solscan.io/tx/3uLZaBEe1S5amWTVYGZHywERZ11HYkjdjG2WZgbUZY1V4AHEoLn1ddukmDLqkMTi71Gpy2QfKdhPbkU1bN3xbCKh) | 549,070,000,000    |
+| [https://solscan.io/tx/2abimf5b4p3b2A4Y2udCrPfAAqqAXyMrnC9nUn2TsAu6Dq1T61hHjzTSMupuSv5yvumCcbnR6uFBLtFKaGDN1ZGL](https://solscan.io/tx/2abimf5b4p3b2A4Y2udCrPfAAqqAXyMrnC9nUn2TsAu6Dq1T61hHjzTSMupuSv5yvumCcbnR6uFBLtFKaGDN1ZGL) | 2,180,000,000,000  |
 
 **Funds are held in a dedicated burn address:** [https://solscan.io/account/BRNepaqodoSxPtCUMPTJDQSyF5RNZ3oPUza4oBn8U9p5](https://solscan.io/account/BRNepaqodoSxPtCUMPTJDQSyF5RNZ3oPUza4oBn8U9p5)\
 \
