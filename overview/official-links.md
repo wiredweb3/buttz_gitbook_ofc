@@ -6,7 +6,9 @@
 **Official Website:** [https://solbuttz.vercel.app](https://solbuttz.vercel.app/)\
 **Twitter:** [https://twitter.com/Sol\_Buttz](https://twitter.com/Sol\_Buttz)\
 **Discord:** [https://discord.me/buttz](https://discord.me/buttz)\
-**Github:** [https://github.com/wiredweb3](https://github.com/wiredweb3)
+**Github:** [https://github.com/wiredweb3](https://github.com/wiredweb3)\
+\
+**Sol BUTTZ NFT Launchpad:** [https://launchmynft.io/collections/7ZYXfeib6E1eLKntetgtnN3euWxVEasdwXehndLYTXb3/97M1KmEpJX6byjeKE4Z4](https://launchmynft.io/collections/7ZYXfeib6E1eLKntetgtnN3euWxVEasdwXehndLYTXb3/97M1KmEpJX6byjeKE4Z4)
 
 ## Exchanges and swap
 
