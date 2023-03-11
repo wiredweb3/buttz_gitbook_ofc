@@ -9,7 +9,10 @@ coverY: 10
 Sol Buttz is a project based on an NFT collection and powered by a proprietary SPL token that rule the ecosystem.\
 The collection is composed by 5000 unique pixel art artwork and is designed and created by the visual and pixel artist[ **Daneli.Sol**](https://twitter.com/danelisol)****\
 ****\
-**Launch is planned for the 8th of March through** [**LaunchMyNft launchpad**](https://launchmynft.io/collections/7ZYXfeib6E1eLKntetgtnN3euWxVEasdwXehndLYTXb3/97M1KmEpJX6byjeKE4Z4) ****&#x20;
+**Collection is live for mint on** [**LauncMyNft**](https://www.launchmynft.io/collections/7ZYXfeib6E1eLKntetgtnN3euWxVEasdwXehndLYTXb3/97M1KmEpJX6byjeKE4Z4) **launchpad**\
+**Secondary marketplacxe is already live on:**\
+**Tensor:** [**https://www.tensor.trade/trade/sol\_buttz**](https://www.tensor.trade/trade/sol\_buttz)****\
+**Magic Eden:** [**https://magiceden.io/marketplace/sol\_buttz**](https://magiceden.io/marketplace/sol\_buttz)
 
 <figure><img src="../.gitbook/assets/preview.png" alt=""><figcaption></figcaption></figure>
 
