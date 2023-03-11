@@ -1,7 +1,7 @@
 ---
-description: Coming soon
+description: Stake your Sol Buttz NFT to earn rewards in $BUTTZ
 ---
 
 # 🍑 NFT Staking
 
-This section will be available once Sol  Buttz collection will be out.
+[https://stake.cardinal.so/buttz](https://stake.cardinal.so/buttz)
