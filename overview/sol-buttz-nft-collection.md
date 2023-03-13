@@ -7,12 +7,17 @@ coverY: 10
 # 🤝 Sol Buttz NFT collection
 
 Sol Buttz is a project based on an NFT collection and powered by a proprietary SPL token that rule the ecosystem.\
-The collection is composed by 5000 unique pixel art artwork and is designed and created by the visual and pixel artist[ **Daneli.Sol**](https://twitter.com/danelisol)****\
-****\
+The collection is composed by 5000 unique pixel art artwork and is designed and created by the visual and pixel artist[ **Daneli.Sol**](https://twitter.com/danelisol)****
+
+{% hint style="info" %}
+After launch, 494 NFT where burned for an undisclose reason by an anonymous buyer.
+{% endhint %}
+
 **Collection is live for mint on** [**LauncMyNft**](https://www.launchmynft.io/collections/7ZYXfeib6E1eLKntetgtnN3euWxVEasdwXehndLYTXb3/97M1KmEpJX6byjeKE4Z4) **launchpad**\
-**Secondary marketplacxe is already live on:**\
-**Tensor:** [**https://www.tensor.trade/trade/sol\_buttz**](https://www.tensor.trade/trade/sol\_buttz)****\
-**Magic Eden:** [**https://magiceden.io/marketplace/sol\_buttz**](https://magiceden.io/marketplace/sol\_buttz)
+****\
+**Secondary marketplace is already live on:**\
+&#x20;**- Tensor:** [**https://www.tensor.trade/trade/sol\_buttz**](https://www.tensor.trade/trade/sol\_buttz)****\
+&#x20;**- Magic Eden:** [**https://magiceden.io/marketplace/sol\_buttz**](https://magiceden.io/marketplace/sol\_buttz)
 
 <figure><img src="../.gitbook/assets/preview.png" alt=""><figcaption></figcaption></figure>
 
