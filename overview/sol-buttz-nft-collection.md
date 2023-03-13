@@ -7,10 +7,10 @@ coverY: 10
 # 🤝 Sol Buttz NFT collection
 
 Sol Buttz is a project based on an NFT collection and powered by a proprietary SPL token that rule the ecosystem.\
-The collection is composed by 5000 unique pixel art artwork and is designed and created by the visual and pixel artist[ **Daneli.Sol**](https://twitter.com/danelisol)****
+The collection is composed by ~~5000~~ 3534 unique pixel art artwork and is designed and created by the visual and pixel artist[ **Daneli.Sol**](https://twitter.com/danelisol)****
 
 {% hint style="info" %}
-After launch, 494 NFT where burned for an undisclose reason by an anonymous buyer.
+After launch, 494 NFT where burned for an undisclosed reason by an anonymous buyer.
 {% endhint %}
 
 **Collection is live for mint on** [**LauncMyNft**](https://www.launchmynft.io/collections/7ZYXfeib6E1eLKntetgtnN3euWxVEasdwXehndLYTXb3/97M1KmEpJX6byjeKE4Z4) **launchpad**\
