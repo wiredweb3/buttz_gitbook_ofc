@@ -25,15 +25,16 @@ description: Development plan for Sol Buttz NFT and $BUTTZ token  (not final)
 * [ ] Ongoing | $BUTTZ Token listing on Coinmarketcap
 * [x] Mar 2023 | SOL BUTTZ NFT: Mint for OG, Buttzlist and public sale
 * [x] Mar 2023 | SOL BUTTZ NFT: Listing on MagicEden, Solsea, and other secondary marketplaces
-* [ ] Mar 2023 |  SOL BUTTZ NFT: Discord Holders Verification System
+* [x] Mar 2023 |  SOL BUTTZ NFT: Discord Holders Verification System
 * [x] Mar 2023 | SOL BUTTZ NFT: Staking activation on Cardinal
-* [ ] Mar 2023 | SOL BUTTZ NFT: Listing on lending/borrowing platforms
 * [ ] Mar 2023 | $BUTTZ Token: Partnership enforcing and additional listing on external platforms
 * [ ] Mar 2023 | Discord community expansion campaign
+* [ ] Mar 2023 | Definition of a system that will rewards strongest holders
 
 ## **Q2/2023**
 
 * [ ] Apr 2023 | SOL BUTTZ DAO enforcing
+* [ ] Apr 2023 | SOL BUTTZ NFT: Listing on lending/borrowing platforms
 * [ ] May 2023 | Development of SOL BUTTZ Official NFT Marketplace and physical merchandising
 * [ ] Jun 2023 | SOL BUTTZ NFT and $BUTTZ: Development of a proprietary NFT staking and lending platform&#x20;
 
