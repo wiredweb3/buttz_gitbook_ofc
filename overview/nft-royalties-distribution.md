@@ -7,7 +7,7 @@ description: Overview of royalties distributions plans
 ## Sol Buttz NFT Royalties distribution
 
 Due to recent changes applied by marketplaces on royalties policy, we had to choose between renounce royalties to allow staking or enforce royalties removing staking from roadmap, at least for initila stage.\
-As we always have our community in mind we decided to renounce to royalties in favour of allowing Sol Buttz NFT staking.\
+Having always our community in mind, we decided to renounce to royalties in favour of allowing Sol Buttz NFT staking.\
 \
 Hovewer, also if collection royalties are not enforced by design, we can still collect 5% royalties from some sales of those that choosen to support us.\
 All royalties collected through secondary marketplace sales flows automatically into this address: [7ZYXfeib6E1eLKntetgtnN3euWxVEasdwXehndLYTXb3](https://solscan.io/account/7ZYXfeib6E1eLKntetgtnN3euWxVEasdwXehndLYTXb3)\
