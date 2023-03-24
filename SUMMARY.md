@@ -5,7 +5,7 @@
 ## Overview
 
 * [🤝 Sol Buttz NFT collection](overview/sol-buttz-nft-collection.md)
-* [🏆 Holders benefit](overview/holders-benefit.md)
+* [🏆 Holders utilities](overview/holders-utilities.md)
 * [♻ NFT royalties distribution](overview/nft-royalties-distribution.md)
 * [🗺 Roadmap](overview/roadmap.md)
 * [🔗 Official Links](overview/official-links.md)
