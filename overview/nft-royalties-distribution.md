@@ -4,7 +4,7 @@ description: Overview of royalties distributions plans
 
 # ♻ NFT royalties distribution
 
-## NFT Royalties distribution
+## Sol Buttz NFT Royalties distribution
 
 Due to recent changes applied by marketplaces on royalties policy, we had to choose between renounce royalties to allow staking or enforce royalties removing staking from roadmap, at least for initila stage.\
 As we always have our community in mind we decided to renounce to royalties in favour of allowing Sol Buttz NFT staking.\

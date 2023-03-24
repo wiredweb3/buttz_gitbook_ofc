@@ -2,7 +2,7 @@
 description: Here are reported all  burn TX
 ---
 
-# 🔥 Burns
+# 🔥 BUTTZ Token Burns
 
 With the purpose of dilute the total supply, we already completed some token burns.\
 Additional burns are already planned and will happen recursively.\
