@@ -28,16 +28,16 @@ Following the list of \[current] benefits reserved to Sol Buttz holders, divided
 
 **All previous plus:**
 
-1. Access to monthly exclusive 1:1 auction&#x20;
-2. Access to monthly exclusive raffles of various high value NFTs.
-3. Access to VIP giveaways with high value NFT prizes, tokens and exclusive merch
-4. Voting rights for what happens next on the collection&#x20;
+1. Access to monthly[nft-royalties-distribution.md](nft-royalties-distribution.md "mention")
+2. Access to monthly exclusive 1:1 auction&#x20;
+3. Access to monthly exclusive raffles of various high value NFTs.
+4. Access to VIP giveaways with high value NFT prizes, tokens and exclusive merch
 
 ### **Buttz God (more than 50 Sol Buttz NFT)**
 
 **All previous plus:**
 
-1. Access to monthly[nft-royalties-distribution.md](nft-royalties-distribution.md "mention")
+1. Voting rights for what happens next on the collection&#x20;
 2. Revenue sharing from upcoming marketplace (under development - check [roadmap.md](roadmap.md "mention"))
 
 {% hint style="warning" %}
