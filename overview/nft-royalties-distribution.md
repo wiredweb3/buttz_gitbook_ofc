@@ -13,7 +13,7 @@ Hovewer, also if collection royalties are not enforced by design, we can still c
 All royalties collected through secondary marketplace sales flows automatically into this address: [7ZYXfeib6E1eLKntetgtnN3euWxVEasdwXehndLYTXb3](https://solscan.io/account/7ZYXfeib6E1eLKntetgtnN3euWxVEasdwXehndLYTXb3)\
 All Solana held on this address are NET (the artist is already getting his part due to the smart contract share) and wil be redistributed as follow at the end of each month:
 
-* 35% of royalties will be distributed and shared proportionally among all [top 20 NFT holders](https://hyperspace.xyz/collection/4HqRYwwaYGyJB39R96M7tiBfhMuEAMsqoc827m4HQAW6?activeTab=Analytics) (this number can be adjusted as soon as distribution improves) at the end of each month.
+* 35% of royalties will be distributed and shared proportionally among all [top 20 NFT holders](https://hyperspace.xyz/collection/4HqRYwwaYGyJB39R96M7tiBfhMuEAMsqoc827m4HQAW6?activeTab=Analytics) (this parameter will be adjusted as soon as distribution improves) at the end of each month.
 * 25% of royalties go towards a “repurchase program” through which we will buyback NFT from floor to create NFT reserves for community raffles purpose or for further re-sale at higher prices.
 * 25% of royalties will be held in $SOL and deposited in a dedicated vault address as investment in case $SOL goes up in price, so we can use it towards further development and paying expenses.
 * 15% of royalties goes to a fund for paying expenses to hire artists for the creation of artworks for the next collections.
