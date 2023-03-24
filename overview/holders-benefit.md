@@ -4,7 +4,7 @@ description: List of exclusive adavantages for Sol Buttz holders
 
 # 🏆 Holders benefit
 
-Being a Sol Buttz holder is not only related to digital ownership of great pixel art collctibles.\
+Being a Sol Buttz holder is not only related to digital ownership of great pixel art collectibles.\
 Each NFT provide access to different resources and financial benefits oriented to an always growing community of NFT enthusiasts.\
 \
 Following the list of \[current] benefits reserved to Sol Buttz holders, divided per holdings:
