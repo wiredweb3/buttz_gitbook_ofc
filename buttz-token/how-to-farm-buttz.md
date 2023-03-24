@@ -1,4 +1,4 @@
-# ♻ How to farm BUTTZ
+# 🌾 How to farm BUTTZ
 
 ## Liquidity farm and pools on Raydium&#x20;
 

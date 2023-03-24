@@ -25,15 +25,6 @@ The amount raised durintg token sale where used to inject liquidity paired with 
 In case of special events or unexpected situations, the team reserve rights to do budget reallocation without further notice.
 {% endhint %}
 
-## NFT Royalties distribution
-
-* 50% of royalties will be distributed perpetually to the artist as compensation.
-* 25% of royalties go towards a “repurchase program”. We will buyback our secondary floor to create reserves for further re-sale in case should we need more funds, or for raffle NFT to users.
-* 10% of royalties stays in $SOL and deposited in a vault as an investment in case $SOL goes up in price, so we can use it towards further development and paying expenses.
-* 7% of royalties goes to a fund for paying expenses to hire artists for the creation of artworks for the next collections.&#x20;
-* 5% of royalties will be deposited until a legitimate DAO forms with proper governance.&#x20;
-* 3% will be distributed and shared proportionally among all holders on each querter according to some (still undisclosed) criteria.
-
 ### Project  expenses <a href="#our-expenses" id="our-expenses"></a>
 
 Every project need funds successfully develop the planned roadmap. When you choose to support our project you help us to afford paying for expenses that the team sustain to run and successfully develop this project, such as back end, domain, hosting, giveaways, paying artists, developers & mods.&#x20;
