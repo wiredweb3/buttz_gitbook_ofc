@@ -8,7 +8,7 @@ Welcome to **"BUTTZPAY"**, the official Raid to Earn program from Sol Buttz.
 
 ## **What is it?**
 
-**BUTTZPAY** is designed to maximise the power of the community distributing real money payouts (SOL/BUTTZ/USDC) to all eligible raiders that contribute with their engagement on Discord and Twitter.&#x20;
+**BUTTZPAY** is designed to maximise the power of the community distributing rewards in form of tokens and NFT to all eligible raiders that contribute with their engagement on Discord and Twitter.&#x20;
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -16,25 +16,24 @@ Welcome to **"BUTTZPAY"**, the official Raid to Earn program from Sol Buttz.
 
 **"BUTTZPAY"** run on the official [Sol Buttz Discord](https://discord.me/buttz) server and have a dedicated channel where the team release different daily tasks. Eligible raiders, wearing an appropriate role, just have to complete tasks proposed by the team to earn payouts.\
 \
-Once tasks are completed, the team reviews all entries and process all payouts. Payments are issued to users through an internal Discord bot. The amount earned by users (in SOL/BUTTZ/USDC) can be then withdrawn anytime from their internal Discord wallet accounts and deposited in exchange or personal user wallets.\
-
+Once tasks are completed, the team reviews all entries and process all payouts. Rewards are sent at the end of each task.&#x20;
 
 ## **How to join?**
 
 ****\
-**"BUTTZPAY**" is accessible only for Discord users with **@ButtzRaider** role. This special role provide access to private tasks channels where the team release contents to raid. To receive the role and access tasks section, **@ButtzRaider** need to hold in their wallet a minimum balance of **$BUTTZ token.**\
-The minimum threshold to get and maintain the role started from 50.000.000.000 $BUTTZ, and increase by 3% every week to create demand for the token.\
-Once users hold the minimum requested $BUTTZ token amount, is possible to proceed to **Collab.land** verification, that automatically assign the **@ButtzRaider** role allowing to access private channels, participate to **BUTTZPAY** raids and receive payouts.
+**"BUTTZPAY**" is accessible only for holders with **15+ Sol Buttz NFT\*** in their wallets and verified on Discord. \*(This amount is subject to change according to market conditions) \
+Once verified, users get the @**ButtzHolder 15+** role that provide access to private tasks channels where the team release contents to raid.\
+\
+The role provide also additional benefits that you can check on [holders-utilities.md](../overview/holders-utilities.md "mention").\
+Also, to join raids and be eligible for rewards, users need a Twitter account with at least 1 month and with more than 50 followers.
+
+## **ButtzPay in   easy steps**
+
+\- **Step 1:** Buy and hold at least 15 Sol Buttz NFT on [Magic Eden](https://magiceden.io/marketplace/sol\_buttz)\
+\- **Step 2:** Join our official [Discord](https://discord.me/buttz)\
+\- **Step 3:** Verify your wallet via Metahelix holders system verification  \
+\- **Step 4:** Start to raid and earn!
 
 {% hint style="warning" %}
-Twitter account with lesst than 50 followers or with less than 2 months are not eligible to receive payouts, also if the specific account hold the **@ButtzRaider** role.
-{% endhint %}
-
-## **How to leave BUTTZPAY?**
-
-Users are free to leave and rejoin anytime they want. **@ButtzRaider** role will be automatically revoked and access to private channels will be lost once the threshold of $BUTTZ token goes below the requested amount. \
-In order to regain access, simply obtain the amount requested at that time and proceed on completing Collab.land verification again.
-
-{% hint style="warning" %}
-The team reserve rights to change conditions and requirements at their own solely discretion.
+The team reserve rights to change conditions and requirements without prior announcement.
 {% endhint %}
