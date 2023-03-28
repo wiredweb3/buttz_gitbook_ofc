@@ -27,10 +27,7 @@ Built to rule and empower the whole Sol Buttz ecosystem, and successfully integr
 * Rewards from SOL BUTTZ NFT staking
 * DAO Membership: Access to dedicated  and private DAO community channels
 * Rewards from yield farming on Raydium DEX pool
-* Mint of future NFT collections.
-* Buying official merchandising.
-
-Currently, $BUTTZ is adopted as currency to join "BUTTZPAY", the raid to earn program specifically designed for Sol Buttz Discord channel.\
-BUTTZPAY raid to earn program is clearly explained [in the dedicated section](../utilities-and-revenue-stream/buttzpay.md).\
-\
-Additional future utilities will be integrated in the [roadmap](../overview/roadmap.md) in parallel to the ecosystem expansion.
+* Mint of future NFT collections
+* Buying official merchandising\
+  \
+  Additional future utilities will be integrated in the [roadmap](../overview/roadmap.md) in parallel to the ecosystem expansion.
