@@ -21,5 +21,5 @@
 ## Utilities and revenue stream
 
 * [🤑 BUTTZPAY](utilities-and-revenue-stream/buttzpay.md)
-* [🍑 NFT Staking](utilities-and-revenue-stream/nft-staking.md)
+* [🍑 Sol Buttz NFT Staking](utilities-and-revenue-stream/sol-buttz-nft-staking.md)
 * [🌪 Sweep and Lock](utilities-and-revenue-stream/sweep-and-lock.md)

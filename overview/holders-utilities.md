@@ -2,7 +2,7 @@
 description: List of exclusive adavantages for Sol Buttz holders
 ---
 
-# 🏆 Holders benefit
+# 🏆 Holders utilities
 
 Being a Sol Buttz holder is not only related to digital ownership of great pixel art collectibles.\
 Each NFT provide access to different resources and financial benefits oriented to an always growing community of NFT enthusiasts.\
@@ -11,7 +11,7 @@ Following the list of \[current] benefits reserved to Sol Buttz holders, divided
 
 ### **Buttz holders (from 1 to 14 Sol Buttz NFT)**
 
-1. Access to passive income through [nft-staking.md](../utilities-and-revenue-stream/nft-staking.md "mention")
+1. Access to passive income through [sol-buttz-nft-staking.md](../utilities-and-revenue-stream/sol-buttz-nft-staking.md "mention")
 2. Early access to future NFT collections drops
 3. Access to giveaways of NFT prizes and $BUTTZ tokens
 
