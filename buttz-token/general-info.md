@@ -13,7 +13,7 @@ The digital asset runs on Solana blockchain, ensuring very low fee and super-fas
 **Ticker:** $BUTTZ\
 **Total supply:** 100,000,000,000,000 $BUTTZ (mint authority disabled)\
 **Token contract:** [https://solscan.io/token/ButtzRVXEyHU8oxQmrUEpcTyE7qR9zGtyr43AVkYnuKK](https://solscan.io/token/ButtzRVXEyHU8oxQmrUEpcTyE7qR9zGtyr43AVkYnuKK)\
-**Current supply:** [ ](https://public-api.solscan.io/token/meta?tokenAddress=ButtzRVXEyHU8oxQmrUEpcTyE7qR9zGtyr43AVkYnuKK)79,046,601,237,308.42[ $BUTTZ](https://public-api.solscan.io/token/meta?tokenAddress=ButtzRVXEyHU8oxQmrUEpcTyE7qR9zGtyr43AVkYnuKK)\
+**Current supply:** [ ](https://public-api.solscan.io/token/meta?tokenAddress=ButtzRVXEyHU8oxQmrUEpcTyE7qR9zGtyr43AVkYnuKK)78,141,815,559,239.42[ $BUTTZ](https://public-api.solscan.io/token/meta?tokenAddress=ButtzRVXEyHU8oxQmrUEpcTyE7qR9zGtyr43AVkYnuKK)\
 \
 You can send and receive $BUTTZ from desktop and mobile through different Solana wallets.\
 We suggest to pick one of those:  [Phantom](https://phantom.app/), [Solflare](https://solflare.com/), [Sollet](https://soillet.io/)\
