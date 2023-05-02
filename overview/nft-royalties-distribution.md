@@ -18,4 +18,4 @@ All royalties collected through secondary marketplace sales flows automatically 
 ## Holders eligibility for royalties distribution
 
 As described in the previous paragraph, 50% of all royalties collected through secondary marketplace will be distributed and shared proportionally among **all those that hold at least 5 SOL BUTTZ NFT.** \
-In order to be eligible for royalties distributoin, we count as valid **ONLY** holders that have all their 5 NFT **delisted and staked** at the moment that we take the monthly snapshot, **that could happen randomly, anytime during the month, without prior announcement.**
+In order to be eligible for royalties distribution, we count as valid **ONLY** holders that have all their 5 NFT **delisted and staked** at the moment that we take the monthly snapshot, **that could happen randomly, anytime during the month, without prior announcement.**
